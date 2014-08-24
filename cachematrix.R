@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Programming Assignment 2 (Lexical Scoping)
 
 ## This function creates a special "matrix" object that can 
 ## cache its inverse.
